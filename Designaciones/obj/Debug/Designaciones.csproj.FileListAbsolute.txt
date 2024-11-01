@@ -1,0 +1,71 @@
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.exe.config
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.exe
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.pdb
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csprojResolveAssemblyReference.cache
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form1.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form10.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form2.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form3.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form4.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form5.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form6.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form7.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form8.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form9.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Properties.Resources.resources
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.GenerateResource.Cache
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.exe
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.pdb
+D:\VidAnj\Documents\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\MySql.Data.dll
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.exe.config
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.exe
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.pdb
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form1.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form10.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form2.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form3.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form4.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form5.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form6.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form7.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form8.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form9.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Properties.Resources.resources
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.GenerateResource.cache
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.CopyComplete
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.exe
+G:\Otros ordenadores\Mi portátil\UTH\2\BD\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.pdb
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.exe.config
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.exe
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\Designaciones.pdb
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.AssemblyReference.cache
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form1.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form10.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form2.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form3.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form4.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form5.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form6.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form7.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form8.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form9.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Properties.Resources.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.GenerateResource.cache
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.csproj.CoreCompileInputs.cache
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designac.490827E0.Up2Date
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.exe
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.pdb
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\MySql.Data.dll
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\System.Memory.dll
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\System.Buffers.dll
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\bin\Debug\MySql.Data.xml
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form11.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form12.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form13.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form14.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form15.resources
+C:\Users\efrec\OneDrive\Documentos\UTH\3\INT\Proyecto\Designaciones\Designaciones\obj\Debug\Designaciones.Form16.resources
